@@ -1,0 +1,1 @@
+C:\Users\Van\Desktop\C# WPF projects\EnterpriseMVVM Learning\EnterpriseMVVM\EnterpriseMVVM.DesktopClient\bin\Debug\EnterpriseMVVM.DesktopClient.exe.config

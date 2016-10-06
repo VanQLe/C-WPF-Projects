@@ -1,0 +1,14 @@
+C:\Users\Van\Desktop\DCOMProductions.MvvmDemo\DCOMProductions.MvvmDemo\Code\DCOMProductions.MvvmDemo.Session02\obj\x86\Debug\DCOMProductions.MvvmDemo.exe
+C:\Users\Van\Desktop\DCOMProductions.MvvmDemo\DCOMProductions.MvvmDemo\Code\DCOMProductions.MvvmDemo.Session02\obj\x86\Debug\DCOMProductions.MvvmDemo.pdb
+C:\Users\Van\Desktop\DCOMProductions.MvvmDemo\DCOMProductions.MvvmDemo\Build\Session01\DCOMProductions.MvvmDemo.exe
+C:\Users\Van\Desktop\DCOMProductions.MvvmDemo\DCOMProductions.MvvmDemo\Build\Session01\DCOMProductions.MvvmDemo.pdb
+C:\Users\Van\Desktop\DCOMProductions.MvvmDemo\DCOMProductions.MvvmDemo\Code\DCOMProductions.MvvmDemo.Session02\obj\x86\Debug\DCOMProductions.MvvmDemo.Session02.csprojResolveAssemblyReference.cache
+C:\Users\Van\Desktop\DCOMProductions.MvvmDemo\DCOMProductions.MvvmDemo\Code\DCOMProductions.MvvmDemo.Session02\obj\x86\Debug\MainWindow.baml
+C:\Users\Van\Desktop\DCOMProductions.MvvmDemo\DCOMProductions.MvvmDemo\Code\DCOMProductions.MvvmDemo.Session02\obj\x86\Debug\Views\CustomerInfoView.baml
+C:\Users\Van\Desktop\DCOMProductions.MvvmDemo\DCOMProductions.MvvmDemo\Code\DCOMProductions.MvvmDemo.Session02\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Van\Desktop\DCOMProductions.MvvmDemo\DCOMProductions.MvvmDemo\Code\DCOMProductions.MvvmDemo.Session02\obj\x86\Debug\Views\CustomerInfoView.g.cs
+C:\Users\Van\Desktop\DCOMProductions.MvvmDemo\DCOMProductions.MvvmDemo\Code\DCOMProductions.MvvmDemo.Session02\obj\x86\Debug\App.g.cs
+C:\Users\Van\Desktop\DCOMProductions.MvvmDemo\DCOMProductions.MvvmDemo\Code\DCOMProductions.MvvmDemo.Session02\obj\x86\Debug\DCOMProductions.MvvmDemo_MarkupCompile.cache
+C:\Users\Van\Desktop\DCOMProductions.MvvmDemo\DCOMProductions.MvvmDemo\Code\DCOMProductions.MvvmDemo.Session02\obj\x86\Debug\DCOMProductions.MvvmDemo.g.resources
+C:\Users\Van\Desktop\DCOMProductions.MvvmDemo\DCOMProductions.MvvmDemo\Code\DCOMProductions.MvvmDemo.Session02\obj\x86\Debug\DCOMProductions.MvvmDemo.Properties.Resources.resources
+C:\Users\Van\Desktop\DCOMProductions.MvvmDemo\DCOMProductions.MvvmDemo\Code\DCOMProductions.MvvmDemo.Session02\obj\x86\Debug\DCOMProductions.MvvmDemo.Session02.csproj.GenerateResource.Cache

@@ -1,0 +1,13 @@
+c:\users\danderson\documents\visual studio 2010\Projects\DCOMProductions.MvvmDemo\DCOMProductions.MvvmDemo\bin\Debug\DCOMProductions.MvvmDemo.exe
+c:\users\danderson\documents\visual studio 2010\Projects\DCOMProductions.MvvmDemo\DCOMProductions.MvvmDemo\bin\Debug\DCOMProductions.MvvmDemo.pdb
+c:\users\danderson\documents\visual studio 2010\Projects\DCOMProductions.MvvmDemo\DCOMProductions.MvvmDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\danderson\documents\visual studio 2010\Projects\DCOMProductions.MvvmDemo\DCOMProductions.MvvmDemo\obj\x86\Debug\MainWindow.baml
+c:\users\danderson\documents\visual studio 2010\Projects\DCOMProductions.MvvmDemo\DCOMProductions.MvvmDemo\obj\x86\Debug\MainWindow.g.cs
+c:\users\danderson\documents\visual studio 2010\Projects\DCOMProductions.MvvmDemo\DCOMProductions.MvvmDemo\obj\x86\Debug\App.g.cs
+c:\users\danderson\documents\visual studio 2010\Projects\DCOMProductions.MvvmDemo\DCOMProductions.MvvmDemo\obj\x86\Debug\DCOMProductions.MvvmDemo_MarkupCompile.cache
+c:\users\danderson\documents\visual studio 2010\Projects\DCOMProductions.MvvmDemo\DCOMProductions.MvvmDemo\obj\x86\Debug\DCOMProductions.MvvmDemo.g.resources
+c:\users\danderson\documents\visual studio 2010\Projects\DCOMProductions.MvvmDemo\DCOMProductions.MvvmDemo\obj\x86\Debug\DCOMProductions.MvvmDemo.Properties.Resources.resources
+c:\users\danderson\documents\visual studio 2010\Projects\DCOMProductions.MvvmDemo\DCOMProductions.MvvmDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\danderson\documents\visual studio 2010\Projects\DCOMProductions.MvvmDemo\DCOMProductions.MvvmDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\danderson\documents\visual studio 2010\Projects\DCOMProductions.MvvmDemo\DCOMProductions.MvvmDemo\obj\x86\Debug\DCOMProductions.MvvmDemo.exe
+c:\users\danderson\documents\visual studio 2010\Projects\DCOMProductions.MvvmDemo\DCOMProductions.MvvmDemo\obj\x86\Debug\DCOMProductions.MvvmDemo.pdb

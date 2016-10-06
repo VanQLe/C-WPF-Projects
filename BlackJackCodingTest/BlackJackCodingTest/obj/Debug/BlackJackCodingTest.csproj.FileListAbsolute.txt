@@ -1,0 +1,14 @@
+C:\Users\Van\Desktop\C# WPF projects\BlackJackCodingTest\BlackJackCodingTest\bin\Debug\BlackJackCodingTest.exe.config
+C:\Users\Van\Desktop\C# WPF projects\BlackJackCodingTest\BlackJackCodingTest\bin\Debug\BlackJackCodingTest.exe
+C:\Users\Van\Desktop\C# WPF projects\BlackJackCodingTest\BlackJackCodingTest\bin\Debug\BlackJackCodingTest.pdb
+C:\Users\Van\Desktop\C# WPF projects\BlackJackCodingTest\BlackJackCodingTest\obj\Debug\BlackJackCodingTest.csprojResolveAssemblyReference.cache
+C:\Users\Van\Desktop\C# WPF projects\BlackJackCodingTest\BlackJackCodingTest\obj\Debug\Views\MainWindow.g.cs
+C:\Users\Van\Desktop\C# WPF projects\BlackJackCodingTest\BlackJackCodingTest\obj\Debug\App.g.cs
+C:\Users\Van\Desktop\C# WPF projects\BlackJackCodingTest\BlackJackCodingTest\obj\Debug\BlackJackCodingTest_MarkupCompile.cache
+C:\Users\Van\Desktop\C# WPF projects\BlackJackCodingTest\BlackJackCodingTest\obj\Debug\BlackJackCodingTest_MarkupCompile.lref
+C:\Users\Van\Desktop\C# WPF projects\BlackJackCodingTest\BlackJackCodingTest\obj\Debug\Views\MainWindow.baml
+C:\Users\Van\Desktop\C# WPF projects\BlackJackCodingTest\BlackJackCodingTest\obj\Debug\BlackJackCodingTest.g.resources
+C:\Users\Van\Desktop\C# WPF projects\BlackJackCodingTest\BlackJackCodingTest\obj\Debug\BlackJackCodingTest.Properties.Resources.resources
+C:\Users\Van\Desktop\C# WPF projects\BlackJackCodingTest\BlackJackCodingTest\obj\Debug\BlackJackCodingTest.csproj.GenerateResource.Cache
+C:\Users\Van\Desktop\C# WPF projects\BlackJackCodingTest\BlackJackCodingTest\obj\Debug\BlackJackCodingTest.exe
+C:\Users\Van\Desktop\C# WPF projects\BlackJackCodingTest\BlackJackCodingTest\obj\Debug\BlackJackCodingTest.pdb

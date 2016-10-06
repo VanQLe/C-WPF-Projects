@@ -1,0 +1,14 @@
+C:\Users\Van\Desktop\C# WPF projects\BlackJackGameWithoutMVVM\BlackJackGameWithoutMVVM\bin\Debug\BlackJackGameWithoutMVVM.exe.config
+C:\Users\Van\Desktop\C# WPF projects\BlackJackGameWithoutMVVM\BlackJackGameWithoutMVVM\bin\Debug\BlackJackGameWithoutMVVM.exe
+C:\Users\Van\Desktop\C# WPF projects\BlackJackGameWithoutMVVM\BlackJackGameWithoutMVVM\bin\Debug\BlackJackGameWithoutMVVM.pdb
+C:\Users\Van\Desktop\C# WPF projects\BlackJackGameWithoutMVVM\BlackJackGameWithoutMVVM\obj\Debug\BlackJackGameWithoutMVVM.csprojResolveAssemblyReference.cache
+C:\Users\Van\Desktop\C# WPF projects\BlackJackGameWithoutMVVM\BlackJackGameWithoutMVVM\obj\Debug\MainWindow.g.cs
+C:\Users\Van\Desktop\C# WPF projects\BlackJackGameWithoutMVVM\BlackJackGameWithoutMVVM\obj\Debug\App.g.cs
+C:\Users\Van\Desktop\C# WPF projects\BlackJackGameWithoutMVVM\BlackJackGameWithoutMVVM\obj\Debug\BlackJackGameWithoutMVVM_MarkupCompile.cache
+C:\Users\Van\Desktop\C# WPF projects\BlackJackGameWithoutMVVM\BlackJackGameWithoutMVVM\obj\Debug\BlackJackGameWithoutMVVM_MarkupCompile.lref
+C:\Users\Van\Desktop\C# WPF projects\BlackJackGameWithoutMVVM\BlackJackGameWithoutMVVM\obj\Debug\MainWindow.baml
+C:\Users\Van\Desktop\C# WPF projects\BlackJackGameWithoutMVVM\BlackJackGameWithoutMVVM\obj\Debug\BlackJackGameWithoutMVVM.g.resources
+C:\Users\Van\Desktop\C# WPF projects\BlackJackGameWithoutMVVM\BlackJackGameWithoutMVVM\obj\Debug\BlackJackGameWithoutMVVM.Properties.Resources.resources
+C:\Users\Van\Desktop\C# WPF projects\BlackJackGameWithoutMVVM\BlackJackGameWithoutMVVM\obj\Debug\BlackJackGameWithoutMVVM.csproj.GenerateResource.Cache
+C:\Users\Van\Desktop\C# WPF projects\BlackJackGameWithoutMVVM\BlackJackGameWithoutMVVM\obj\Debug\BlackJackGameWithoutMVVM.exe
+C:\Users\Van\Desktop\C# WPF projects\BlackJackGameWithoutMVVM\BlackJackGameWithoutMVVM\obj\Debug\BlackJackGameWithoutMVVM.pdb

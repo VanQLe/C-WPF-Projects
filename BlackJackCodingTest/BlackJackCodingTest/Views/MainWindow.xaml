@@ -1,0 +1,23 @@
+﻿<Window x:Class="BlackJackCodingTest.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BlackJackCodingTest"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Label x:Name="label" Content="Player 1" HorizontalAlignment="Left" Margin="44,24,0,0" VerticalAlignment="Top" Width="55"/>
+        <Label x:Name="label_Copy" Content="Player 2" HorizontalAlignment="Left" Margin="226,24,0,0" VerticalAlignment="Top" Width="55"/>
+        <Label x:Name="label_Copy1" Content="Player 3" HorizontalAlignment="Left" Margin="411,24,0,0" VerticalAlignment="Top" Width="55"/>
+        <Label x:Name="Player1NameLabel" Content="" HorizontalAlignment="Left" Margin="44,55,0,0" VerticalAlignment="Top" Width="55"/>
+        <Label x:Name="Player2NameLabel" HorizontalAlignment="Left" Margin="226,55,0,0" VerticalAlignment="Top" Width="55"/>
+        <Label x:Name="Player3NameLabel" Content="" HorizontalAlignment="Left" Margin="411,55,0,0" VerticalAlignment="Top" Width="55"/>
+        <Button x:Name="NextCardButton" Content="Next Card" HorizontalAlignment="Left" Margin="190,240,0,0" VerticalAlignment="Top" Width="119" Height="52"/>
+        <TextBox x:Name="Player1HandLabel" HorizontalAlignment="Left" Height="23" Margin="34,67,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="82" RenderTransformOrigin="0.042,-0.353"/>
+        <TextBox x:Name="Player3HandLabel" HorizontalAlignment="Left" Height="23" Margin="384,67,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="82" RenderTransformOrigin="0.042,-0.353"/>
+        <TextBox x:Name="Player2HandLabel" HorizontalAlignment="Left" Height="23" Margin="214,70,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="82" RenderTransformOrigin="0.042,-0.353"/>
+        <TextBox x:Name="GameStatus" HorizontalAlignment="Left" Height="44" Margin="189,137,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+
+    </Grid>
+</Window>

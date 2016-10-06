@@ -1,0 +1,44 @@
+C:\Users\danderson\Documents\Visual Studio 2010\Projects\DCOMProductions.MvvmDemo\DCOMProductions.MvvmDemo.Session01\obj\x86\Debug\DCOMProductions.MvvmDemo.exe
+C:\Users\danderson\Documents\Visual Studio 2010\Projects\DCOMProductions.MvvmDemo\DCOMProductions.MvvmDemo.Session01\obj\x86\Debug\DCOMProductions.MvvmDemo.pdb
+C:\Users\danderson\Documents\Visual Studio 2010\Projects\DCOMProductions.MvvmDemo\DCOMProductions.MvvmDemo.Session01\bin\Debug\DCOMProductions.MvvmDemo.exe
+C:\Users\danderson\Documents\Visual Studio 2010\Projects\DCOMProductions.MvvmDemo\DCOMProductions.MvvmDemo.Session01\bin\Debug\DCOMProductions.MvvmDemo.pdb
+C:\Users\danderson\Documents\Visual Studio 2010\Projects\DCOMProductions.MvvmDemo\DCOMProductions.MvvmDemo.Session01\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\danderson\Documents\Visual Studio 2010\Projects\DCOMProductions.MvvmDemo\DCOMProductions.MvvmDemo.Session01\obj\x86\Debug\MainWindow.baml
+C:\Users\danderson\Documents\Visual Studio 2010\Projects\DCOMProductions.MvvmDemo\DCOMProductions.MvvmDemo.Session01\obj\x86\Debug\MainWindow.g.cs
+C:\Users\danderson\Documents\Visual Studio 2010\Projects\DCOMProductions.MvvmDemo\DCOMProductions.MvvmDemo.Session01\obj\x86\Debug\App.g.cs
+C:\Users\danderson\Documents\Visual Studio 2010\Projects\DCOMProductions.MvvmDemo\DCOMProductions.MvvmDemo.Session01\obj\x86\Debug\DCOMProductions.MvvmDemo_MarkupCompile.cache
+C:\Users\danderson\Documents\Visual Studio 2010\Projects\DCOMProductions.MvvmDemo\DCOMProductions.MvvmDemo.Session01\obj\x86\Debug\DCOMProductions.MvvmDemo.g.resources
+C:\Users\danderson\Documents\Visual Studio 2010\Projects\DCOMProductions.MvvmDemo\DCOMProductions.MvvmDemo.Session01\obj\x86\Debug\DCOMProductions.MvvmDemo.Properties.Resources.resources
+C:\Users\danderson\Documents\Visual Studio 2010\Projects\DCOMProductions.MvvmDemo\DCOMProductions.MvvmDemo.Session01\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\danderson\Documents\Visual Studio 2010\Projects\DCOMProductions.MvvmDemo\DCOMProductions.MvvmDemo.Session01\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\danderson\Documents\Visual Studio 2010\Projects\DCOMProductions.MvvmDemo\Build\DCOMProductions.MvvmDemo.exe
+C:\Users\danderson\Documents\Visual Studio 2010\Projects\DCOMProductions.MvvmDemo\Build\DCOMProductions.MvvmDemo.pdb
+C:\Users\danderson\Documents\Visual Studio 2010\Projects\DCOMProductions.MvvmDemo\Code\DCOMProductions.MvvmDemo.Session01\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\danderson\Documents\Visual Studio 2010\Projects\DCOMProductions.MvvmDemo\Code\DCOMProductions.MvvmDemo.Session01\obj\x86\Debug\MainWindow.baml
+C:\Users\danderson\Documents\Visual Studio 2010\Projects\DCOMProductions.MvvmDemo\Code\DCOMProductions.MvvmDemo.Session01\obj\x86\Debug\MainWindow.g.cs
+C:\Users\danderson\Documents\Visual Studio 2010\Projects\DCOMProductions.MvvmDemo\Code\DCOMProductions.MvvmDemo.Session01\obj\x86\Debug\App.g.cs
+C:\Users\danderson\Documents\Visual Studio 2010\Projects\DCOMProductions.MvvmDemo\Code\DCOMProductions.MvvmDemo.Session01\obj\x86\Debug\DCOMProductions.MvvmDemo_MarkupCompile.cache
+C:\Users\danderson\Documents\Visual Studio 2010\Projects\DCOMProductions.MvvmDemo\Code\DCOMProductions.MvvmDemo.Session01\obj\x86\Debug\DCOMProductions.MvvmDemo.g.resources
+C:\Users\danderson\Documents\Visual Studio 2010\Projects\DCOMProductions.MvvmDemo\Code\DCOMProductions.MvvmDemo.Session01\obj\x86\Debug\DCOMProductions.MvvmDemo.Properties.Resources.resources
+C:\Users\danderson\Documents\Visual Studio 2010\Projects\DCOMProductions.MvvmDemo\Code\DCOMProductions.MvvmDemo.Session01\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\danderson\Documents\Visual Studio 2010\Projects\DCOMProductions.MvvmDemo\Code\DCOMProductions.MvvmDemo.Session01\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\danderson\Documents\Visual Studio 2010\Projects\DCOMProductions.MvvmDemo\Code\DCOMProductions.MvvmDemo.Session01\obj\x86\Debug\DCOMProductions.MvvmDemo.exe
+C:\Users\danderson\Documents\Visual Studio 2010\Projects\DCOMProductions.MvvmDemo\Code\DCOMProductions.MvvmDemo.Session01\obj\x86\Debug\DCOMProductions.MvvmDemo.pdb
+C:\Users\danderson\Documents\Visual Studio 2010\Projects\DCOMProductions.MvvmDemo\Build\Session01\DCOMProductions.MvvmDemo.exe
+C:\Users\danderson\Documents\Visual Studio 2010\Projects\DCOMProductions.MvvmDemo\Build\Session01\DCOMProductions.MvvmDemo.pdb
+C:\Users\danderson\Desktop\DCOMProductions.MvvmDemo\DCOMProductions.MvvmDemo\Code\DCOMProductions.MvvmDemo.Session01\obj\x86\Debug\DCOMProductions.MvvmDemo.exe
+C:\Users\danderson\Desktop\DCOMProductions.MvvmDemo\DCOMProductions.MvvmDemo\Code\DCOMProductions.MvvmDemo.Session01\obj\x86\Debug\DCOMProductions.MvvmDemo.pdb
+C:\Users\danderson\Desktop\DCOMProductions.MvvmDemo\DCOMProductions.MvvmDemo\Code\DCOMProductions.MvvmDemo.Session01\obj\x86\Debug\DCOMProductions.MvvmDemo.Session01.csprojResolveAssemblyReference.cache
+C:\Users\danderson\Desktop\DCOMProductions.MvvmDemo\DCOMProductions.MvvmDemo\Code\DCOMProductions.MvvmDemo.Session01\obj\x86\Debug\MainWindow.baml
+C:\Users\danderson\Desktop\DCOMProductions.MvvmDemo\DCOMProductions.MvvmDemo\Code\DCOMProductions.MvvmDemo.Session01\obj\x86\Debug\MainWindow.g.cs
+C:\Users\danderson\Desktop\DCOMProductions.MvvmDemo\DCOMProductions.MvvmDemo\Code\DCOMProductions.MvvmDemo.Session01\obj\x86\Debug\App.g.cs
+C:\Users\danderson\Desktop\DCOMProductions.MvvmDemo\DCOMProductions.MvvmDemo\Code\DCOMProductions.MvvmDemo.Session01\obj\x86\Debug\DCOMProductions.MvvmDemo_MarkupCompile.cache
+C:\Users\danderson\Desktop\DCOMProductions.MvvmDemo\DCOMProductions.MvvmDemo\Code\DCOMProductions.MvvmDemo.Session01\obj\x86\Debug\DCOMProductions.MvvmDemo.g.resources
+C:\Users\danderson\Desktop\DCOMProductions.MvvmDemo\DCOMProductions.MvvmDemo\Code\DCOMProductions.MvvmDemo.Session01\obj\x86\Debug\DCOMProductions.MvvmDemo.Properties.Resources.resources
+C:\Users\danderson\Desktop\DCOMProductions.MvvmDemo\DCOMProductions.MvvmDemo\Code\DCOMProductions.MvvmDemo.Session01\obj\x86\Debug\DCOMProductions.MvvmDemo.Session01.csproj.GenerateResource.Cache
+C:\Users\danderson\Desktop\DCOMProductions.MvvmDemo\DCOMProductions.MvvmDemo\Build\Session01\DCOMProductions.MvvmDemo.exe
+C:\Users\danderson\Desktop\DCOMProductions.MvvmDemo\DCOMProductions.MvvmDemo\Build\Session01\DCOMProductions.MvvmDemo.pdb
+C:\Users\danderson\Desktop\DCOMProductions.MvvmDemo\DCOMProductions.MvvmDemo\Code\DCOMProductions.MvvmDemo.Session01\obj\x86\Debug\Views\CustomerInfoView.baml
+C:\Users\danderson\Desktop\DCOMProductions.MvvmDemo\DCOMProductions.MvvmDemo\Code\DCOMProductions.MvvmDemo.Session01\obj\x86\Debug\Views\CustomerInfoView.g.cs
+C:\Users\danderson\Desktop\DCOMProductions.MvvmDemo\DCOMProductions.MvvmDemo\Code\DCOMProductions.MvvmDemo.Session02\obj\x86\Debug\DCOMProductions.MvvmDemo.exe
+C:\Users\danderson\Desktop\DCOMProductions.MvvmDemo\DCOMProductions.MvvmDemo\Code\DCOMProductions.MvvmDemo.Session02\obj\x86\Debug\DCOMProductions.MvvmDemo.pdb

@@ -1,0 +1,14 @@
+C:\Users\Van\Desktop\C# WPF projects\MVVM practice 1x\MVVM practice 1x\bin\Debug\MVVM practice 1x.exe.config
+C:\Users\Van\Desktop\C# WPF projects\MVVM practice 1x\MVVM practice 1x\bin\Debug\MVVM practice 1x.exe
+C:\Users\Van\Desktop\C# WPF projects\MVVM practice 1x\MVVM practice 1x\bin\Debug\MVVM practice 1x.pdb
+C:\Users\Van\Desktop\C# WPF projects\MVVM practice 1x\MVVM practice 1x\obj\Debug\MVVM practice 1x.csprojResolveAssemblyReference.cache
+C:\Users\Van\Desktop\C# WPF projects\MVVM practice 1x\MVVM practice 1x\obj\Debug\Views\MainWindow.g.cs
+C:\Users\Van\Desktop\C# WPF projects\MVVM practice 1x\MVVM practice 1x\obj\Debug\App.g.cs
+C:\Users\Van\Desktop\C# WPF projects\MVVM practice 1x\MVVM practice 1x\obj\Debug\MVVM practice 1x_MarkupCompile.cache
+C:\Users\Van\Desktop\C# WPF projects\MVVM practice 1x\MVVM practice 1x\obj\Debug\MVVM practice 1x_MarkupCompile.lref
+C:\Users\Van\Desktop\C# WPF projects\MVVM practice 1x\MVVM practice 1x\obj\Debug\Views\MainWindow.baml
+C:\Users\Van\Desktop\C# WPF projects\MVVM practice 1x\MVVM practice 1x\obj\Debug\MVVM practice 1x.g.resources
+C:\Users\Van\Desktop\C# WPF projects\MVVM practice 1x\MVVM practice 1x\obj\Debug\MVVM_practice_1x.Properties.Resources.resources
+C:\Users\Van\Desktop\C# WPF projects\MVVM practice 1x\MVVM practice 1x\obj\Debug\MVVM practice 1x.csproj.GenerateResource.Cache
+C:\Users\Van\Desktop\C# WPF projects\MVVM practice 1x\MVVM practice 1x\obj\Debug\MVVM practice 1x.exe
+C:\Users\Van\Desktop\C# WPF projects\MVVM practice 1x\MVVM practice 1x\obj\Debug\MVVM practice 1x.pdb

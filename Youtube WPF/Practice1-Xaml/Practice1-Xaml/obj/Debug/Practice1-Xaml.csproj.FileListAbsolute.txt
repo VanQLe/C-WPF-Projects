@@ -1,0 +1,14 @@
+C:\Users\Van\Desktop\Youtube WPF\Practice1-Xaml\Practice1-Xaml\bin\Debug\Practice1-Xaml.exe.config
+C:\Users\Van\Desktop\Youtube WPF\Practice1-Xaml\Practice1-Xaml\bin\Debug\Practice1-Xaml.exe
+C:\Users\Van\Desktop\Youtube WPF\Practice1-Xaml\Practice1-Xaml\bin\Debug\Practice1-Xaml.pdb
+C:\Users\Van\Desktop\Youtube WPF\Practice1-Xaml\Practice1-Xaml\obj\Debug\Practice1-Xaml.csprojResolveAssemblyReference.cache
+C:\Users\Van\Desktop\Youtube WPF\Practice1-Xaml\Practice1-Xaml\obj\Debug\MainWindow.g.cs
+C:\Users\Van\Desktop\Youtube WPF\Practice1-Xaml\Practice1-Xaml\obj\Debug\App.g.cs
+C:\Users\Van\Desktop\Youtube WPF\Practice1-Xaml\Practice1-Xaml\obj\Debug\Practice1-Xaml_MarkupCompile.cache
+C:\Users\Van\Desktop\Youtube WPF\Practice1-Xaml\Practice1-Xaml\obj\Debug\Practice1-Xaml_MarkupCompile.lref
+C:\Users\Van\Desktop\Youtube WPF\Practice1-Xaml\Practice1-Xaml\obj\Debug\MainWindow.baml
+C:\Users\Van\Desktop\Youtube WPF\Practice1-Xaml\Practice1-Xaml\obj\Debug\Practice1-Xaml.g.resources
+C:\Users\Van\Desktop\Youtube WPF\Practice1-Xaml\Practice1-Xaml\obj\Debug\Practice1_Xaml.Properties.Resources.resources
+C:\Users\Van\Desktop\Youtube WPF\Practice1-Xaml\Practice1-Xaml\obj\Debug\Practice1-Xaml.csproj.GenerateResource.Cache
+C:\Users\Van\Desktop\Youtube WPF\Practice1-Xaml\Practice1-Xaml\obj\Debug\Practice1-Xaml.exe
+C:\Users\Van\Desktop\Youtube WPF\Practice1-Xaml\Practice1-Xaml\obj\Debug\Practice1-Xaml.pdb
